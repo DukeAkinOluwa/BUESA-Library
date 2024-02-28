@@ -1,0 +1,15 @@
+{
+  "name": "BUESA Library",
+  "short_name": "BUESA",
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#E73C37",
+  "background_color": "#FFFBFB",
+  "icons": [
+    {
+      "src": "./Images/Logo.png",
+      "sizes": "1080x1081",
+      "type": "image/png"
+    }
+  ]
+}
