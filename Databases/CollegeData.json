@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "levels": [
+                "100",
+                "200",
+                "300",
+                "400",
+                "500"
+            ],
+            "deparments": [
+                "Biomedical",
+                "Civil",
+                "Computer",
+                "Electrical",
+                "Mechanical",
+                "Mechatronics",
+                "Telecommunications"
+            ],
+            "semesters": [
+                "1",
+                "2"
+            ],
+            "courses": [
+                {
+                    "coursecode": "Eng 301",
+                    "coursetitle": "Engineering"
+                },
+                {
+                    "coursecode": "Eng 312",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "Eng 311",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "Eng 302",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "Eng 303",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "Eng 304",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "Eng 305",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "Eng 306",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "Eng 307",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "Eng 308",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "Eng 309",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "Eng 310",
+                    "coursetitle": "Engineering Mathematics"
+                }
+            ]
+        }
+    ]
+}
