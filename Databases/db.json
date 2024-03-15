@@ -1,0 +1,232 @@
+{
+    "userdata": [
+        {
+            "username": "Akin",
+            "password": "Akin",
+            "courses" : [
+                {
+                    "coursecode": "ENG301",
+                    "coursetitle": "Engineering",
+                    "materials": [
+                        {
+                            "title": "The power of Hydro powered plants",
+                            "author": "Dr. Oyebanji",
+                            "session": "2022/2023",
+                            "category": "Note"
+                        },
+                        {
+                            "title": "Elementary Machine Drawing Techniques",
+                            "author": "Eng. Chucks",
+                            "session": "2021/2022",
+                            "category": "Note"
+                        },
+                        {
+                            "title": "ENG301",
+                            "author": "Dr. Oyebanji",
+                            "session": "2022/2023",
+                            "category": "Past Question",
+                            "type": "Exam"
+                        },
+                        {
+                            "title": "Elementary Machine Drawing Techniques",
+                            "author": "Eng. Chucks",
+                            "session": "2021/2022",
+                            "category": "Past Question",
+                            "type": "Assignment"
+                        }
+                    ]
+                },
+                {
+                    "coursecode": "ENG312",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG311",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG302",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG303",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG304",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG305",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG306",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG307",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG308",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG309",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG310",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG301",
+                    "coursetitle": "Engineering"
+                },
+                {
+                    "coursecode": "ENG312",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG311",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG302",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG303",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG304",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG305",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG306",
+                    "coursetitle": "Engineering Mathematics"
+                }
+            ]
+        },
+        {
+            "username": "Bolu",
+            "password": "Bolu",
+            "courses" : [
+                {
+                    "coursecode": "ENG301",
+                    "coursetitle": "Engineering",
+                    "materials": [
+                        {
+                            "title": "The power of Hydro powered plants",
+                            "author": "Dr. Oyebanji",
+                            "session": "2022/2023",
+                            "category": "Note"
+                        },
+                        {
+                            "title": "Elementary Machine Drawing Techniques",
+                            "author": "Eng. Chucks",
+                            "session": "2021/2022",
+                            "category": "Note"
+                        },
+                        {
+                            "title": "ENG301",
+                            "author": "Dr. Oyebanji",
+                            "session": "2022/2023",
+                            "category": "Past Question",
+                            "type": "Exam"
+                        },
+                        {
+                            "title": "Elementary Machine Drawing Techniques",
+                            "author": "Eng. Chucks",
+                            "session": "2021/2022",
+                            "category": "Past Question",
+                            "type": "Assignment"
+                        }
+                    ]
+                },
+                {
+                    "coursecode": "ENG312",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG311",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG302",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG303",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG304",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG305",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG306",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG307",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG308",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG309",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG310",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG301",
+                    "coursetitle": "Engineering"
+                },
+                {
+                    "coursecode": "ENG312",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG311",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG302",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG303",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG304",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG305",
+                    "coursetitle": "Engineering Mathematics"
+                },
+                {
+                    "coursecode": "ENG306",
+                    "coursetitle": "Engineering Mathematics"
+                }
+            ]
+        }
+    ]
+}
